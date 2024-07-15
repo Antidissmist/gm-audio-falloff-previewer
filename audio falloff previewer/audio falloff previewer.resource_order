@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_runner","order":6,"path":"objects/obj_runner/obj_runner.yy",},
+    {"name":"Room1","order":5,"path":"rooms/Room1/Room1.yy",},
+    {"name":"snd_test","order":4,"path":"sounds/snd_test/snd_test.yy",},
+  ],
+}
